@@ -1,2 +1,2 @@
 # hello_world
-Introduction to GitHub
+Introduction to GitHub and Python programming.
